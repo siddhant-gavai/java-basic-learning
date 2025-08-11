@@ -15,12 +15,12 @@ public class javaBasic {
 
         // System.out.println(sum); 
 
-
+        
         Scanner sc = new Scanner(System.in);
         // System.out.print("Enter a number: ");
         // int userInput = sc.nextInt();
         // System.out.println("You entered: " + userInput);
-
+        
         System.out.print("enter a First number : ");
         int a = sc.nextInt();
         System.out.print("enter a Second  number : ");
@@ -28,6 +28,7 @@ public class javaBasic {
         int sum = a + b  ;  
 
         System.out.println("Sum of two numbers is : " + sum);
+        sc.close();
 
          
     }
