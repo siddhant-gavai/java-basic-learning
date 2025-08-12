@@ -25,10 +25,23 @@ public class whileLoop {
         while (i <= n) {
             System.out.println(i);
             i++;
+
         }
+          
+        int number = 10889 ;
+        int rev = 0 ;
+
+         while (number > 0) {
+            int lastDigit = n % 10 ; 
+            rev = (rev*10) + lastDigit ;
+            n = n/10 ; 
+            
+         }
+         System.out.println(rev);
 
       
 
         sc.close();
+
     }
 }
