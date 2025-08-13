@@ -13,6 +13,9 @@ I have learned the basics of Java including variables, operators, conditionals, 
   - Even/Odd Number Checker
   - Basic Calculator
   - Income Tax Calculator
+- 🧮 Arrays – Single and multidimensional arrays
+- 🧵 Strings – String operations and methods
+- 🧰 Methods – Defining and using functions
 
 ## Example: For Loop
 
