@@ -10,3 +10,9 @@ public class pattern3 {
         }
     }
 }
+
+// Output
+// 1
+// 12
+// 123
+// 1234
